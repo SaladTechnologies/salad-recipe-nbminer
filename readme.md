@@ -11,4 +11,5 @@ Select GPUs compatible with yoru chosen algorithm.
 
 ## Testing locally
 run `docker build -t nbminer .`
+
 run `docker run -e ALG=[] -e POOL=[] -e WALLET_ID=[] -e WORKER_ID=[] -e PASS=[] nbminer`
