@@ -11,7 +11,7 @@ WORKER_ID=[worker ID for user]
 
 PASS=[password for pool]
 
-Select GPUs compatible with yoru chosen algorithm.
+Select GPUs compatible with your chosen algorithm.
 
 ## Testing locally
 run `docker build -t nbminer .`
