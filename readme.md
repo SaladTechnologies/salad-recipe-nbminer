@@ -2,9 +2,13 @@
 set up ENV variables in your container group deployment page:
 
 ALG=[algorithm]
+
 POOL=[full pool URL including port]
+
 WALLET_ID=[coin wallet]
+
 WORKER_ID=[worker ID for user]
+
 PASS=[password for pool]
 
 Select GPUs compatible with yoru chosen algorithm.
