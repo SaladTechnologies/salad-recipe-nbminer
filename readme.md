@@ -17,3 +17,4 @@ Select GPUs compatible with your chosen algorithm.
 run `docker build -t nbminer .`
 
 run `docker run -e ALG= -e POOL= -e WALLET_ID= -e WORKER_ID= -e PASS= nbminer`
+adding your desired variables after the = signs
